@@ -2,7 +2,7 @@
 - I am Shwetha Srikanth, a student of Information Science and Engineering at Siddaganga Institute of Technology, Tumakuru.
 - 👀 I’m interested in C, C++, HTML, CS, Java Script.
 - 🌱 I’m currently learning Python
-- 📫 How to reach me linkedin.com/in/shwetha-srikanth-06369920b
+- 📫 How to reach me: linkedin.com/in/shwetha-srikanth-06369920b
 
 
 <!---
